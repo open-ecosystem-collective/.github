@@ -13,7 +13,7 @@ Small tech firms have brilliant engineers and no partner manager.
 MDF budgets go unclaimed. Co-sell opportunities are missed.  
 Partner ecosystems are untouched.
 
-We bridge that gap — openly, transparently, as a community.
+We bridge that gap - openly, transparently, as a community.
 
 ---
 
