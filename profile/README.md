@@ -21,8 +21,8 @@ We bridge that gap - openly, transparently, as a community.
 
 | Repository | What it contains |
 |---|---|
-| [methodology](../methodology) | Partner Ecosystem Maturity Assessment, Playbooks, Templates |
-| [governance](../governance) | Values Charter, Maturity Levels, Decision Process |
+| [methodology](open-ecosystem-collective/methodology) | Partner Ecosystem Maturity Assessment, Playbooks, Templates |
+| [governance](open-ecosystem-collective/governance) | Values Charter, Maturity Levels, Decision Process |
 
 ---
 
@@ -30,16 +30,16 @@ We bridge that gap - openly, transparently, as a community.
 
 Everything is licensed **CC-BY-SA 4.0** — use it, adapt it, give back.
 
-→ Start with the [Partner Ecosystem Maturity Assessment](../methodology)  
-→ Read the [Values Charter](../governance)  
-→ Open an [issue](../methodology/issues) to suggest improvements
+→ Start with the [Partner Ecosystem Maturity Assessment](open-ecosystem-collective/methodology)  
+→ Read the [Values Charter](open-ecosystem-collective/governance)  
+→ Open an [issue](open-ecosystem-collective/methodology/issues) to suggest improvements
 
 ---
 
 ## Get involved
 
 We welcome contributions from anyone who shares our values.  
-See [CONTRIBUTING.md](../methodology/blob/main/CONTRIBUTING.md) to get started.
+See [CONTRIBUTING.md](open-ecosystem-collective/methodology/blob/main/CONTRIBUTING.md) to get started.
 
 ---
 
