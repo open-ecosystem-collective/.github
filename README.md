@@ -3,7 +3,10 @@
 **Partner Ecosystem Management as a Non-Code Open Source Contribution.**
 
 We build open methodology, playbooks, and governance frameworks  
-for Cloud Native & Open Source companies (5–50 employees).
+for Cloud Native & Open Source companies (5–50 employees) who need  
+partner ecosystem expertise but don't have a partner manager.
+
+Licensed **CC-BY-SA 4.0** – use it, adapt it, give back under the same terms.
 
 ---
 
@@ -21,8 +24,8 @@ We bridge that gap — openly, transparently, as a community.
 
 | Repository | What it contains |
 |---|---|
-| [methodology](../methodology) | Partner Ecosystem Maturity Assessment, Playbooks, Templates |
-| [governance](../governance) | Values Charter, Maturity Levels, Decision Process |
+| [methodology](https://github.com/open-ecosystem-collective/methodology) | Partner Ecosystem Maturity Assessment, Playbooks, Templates |
+| [governance](https://github.com/open-ecosystem-collective/governance) | Values Charter, Maturity Levels, Decision Process |
 
 ---
 
@@ -30,16 +33,22 @@ We bridge that gap — openly, transparently, as a community.
 
 Everything is licensed **CC-BY-SA 4.0** — use it, adapt it, give back.
 
-→ Start with the [Partner Ecosystem Maturity Assessment](../methodology)  
-→ Read the [Values Charter](../governance)  
-→ Open an [issue](../methodology/issues) to suggest improvements
+→ Start with the [Partner Ecosystem Maturity Assessment](https://github.com/open-ecosystem-collective/methodology/blob/main/assessments/partner-ecosystem-maturity-assessment-v1.0.md)  
+→ Read the [Values Charter](https://github.com/open-ecosystem-collective/governance/blob/main/values-charter.md)  
+→ Open an [issue](https://github.com/open-ecosystem-collective/methodology/issues) to suggest improvements
 
 ---
 
 ## Get involved
 
 We welcome contributions from anyone who shares our values.  
-See [CONTRIBUTING.md](../methodology/blob/main/CONTRIBUTING.md) to get started.
+See [CONTRIBUTING.md](https://github.com/open-ecosystem-collective/methodology/blob/main/CONTRIBUTING.md) to get started.  
+See [membership.md](https://github.com/open-ecosystem-collective/governance/blob/main/membership.md) to join the collective.
+
+---
+
+*Founded by Tania Romero Campos · Kanton Aargau, Switzerland · 2026*  
+*[openecosystem.ch](https://openecosystem.ch)*
 
 ---
 
