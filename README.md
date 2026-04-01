@@ -47,9 +47,4 @@ See [membership.md](https://github.com/open-ecosystem-collective/governance/blob
 
 ---
 
-*Founded by Tania Romero Campos · Kanton Aargau, Switzerland · 2026*  
-*[openecosystem.ch](https://openecosystem.ch)*
-
----
-
 *Founded by Tania Vonarburg-Romero · Kanton Aargau, Switzerland · 2026*  
