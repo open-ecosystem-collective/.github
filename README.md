@@ -29,16 +29,15 @@ We bridge that gap — openly, transparently, as a community.
 
 ---
 
-## How to use this
+## Resources
 
-Everything is licensed **CC-BY-SA 4.0** — use it, adapt it, give back.
-
-→ Start with the [Partner Ecosystem Maturity Assessment](https://github.com/open-ecosystem-collective/methodology/blob/main/assessments/partner-ecosystem-maturity-assessment-v1.0.md)  
-→ Read the [Values Charter](https://github.com/open-ecosystem-collective/governance/blob/main/values-charter.md)  
-→ Open an [issue](https://github.com/open-ecosystem-collective/methodology/issues) to suggest improvements
+| Resource | Link |
+|---|---|
+| 🌐 Cloud Native Landscape | [open-ecosystem-collective.github.io/landscape](https://open-ecosystem-collective.github.io/landscape/) |
+| 📋 Partner Ecosystem Assessment | [methodology/assessments](../methodology) |
+| 🏛️ Values Charter | [governance/values-charter](../governance) |
 
 ---
-
 ## Get involved
 
 We welcome contributions from anyone who shares our values.  
