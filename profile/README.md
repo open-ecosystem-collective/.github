@@ -6,7 +6,7 @@ We build open methodology, playbooks, and governance frameworks
 for Cloud Native & Open Source companies (5–50 employees) who need  
 partner ecosystem expertise but don't have a partner manager.
 
-Licensed **CC-BY-SA 4.0** - use it, adapt it, give back under the same terms.
+Licensed **CC-BY-SA 4.0** – use it, adapt it, give back under the same terms.
 
 ---
 
@@ -16,7 +16,7 @@ Small tech firms have brilliant engineers and no partner manager.
 MDF budgets go unclaimed. Co-sell opportunities are missed.  
 Partner ecosystems are untouched.
 
-We bridge that gap - openly, transparently, as a community.
+We bridge that gap — openly, transparently, as a community.
 
 ---
 
@@ -29,13 +29,13 @@ We bridge that gap - openly, transparently, as a community.
 
 ---
 
-## How to use this
+## Resources
 
-Everything is licensed **CC-BY-SA 4.0** - use it, adapt it, give back.
-
-→ Start with the [Partner Ecosystem Maturity Assessment](https://github.com/open-ecosystem-collective/methodology/blob/main/assessments/partner-ecosystem-maturity-assessment-v1.0.md)  
-→ Read the [Values Charter](https://github.com/open-ecosystem-collective/governance/blob/main/values-charter.md)  
-→ Open an [issue](https://github.com/open-ecosystem-collective/methodology/issues) to suggest improvements
+| Resource | Link |
+|---|---|
+| 🌐 Cloud Native Landscape | [open-ecosystem-collective.github.io/landscape](https://open-ecosystem-collective.github.io/landscape/) |
+| 📋 Partner Ecosystem Assessment | [methodology/assessments](../methodology) |
+| 🏛️ Values Charter | [governance/values-charter](../governance) |
 
 ---
 
@@ -48,4 +48,3 @@ See [membership.md](https://github.com/open-ecosystem-collective/governance/blob
 ---
 
 *Founded by Tania Vonarburg-Romero · Kanton Aargau, Switzerland · 2026*  
-*[openecosystem.ch](https://openecosystem.ch)*
