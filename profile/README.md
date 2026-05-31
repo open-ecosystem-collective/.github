@@ -10,6 +10,26 @@ Licensed **CC-BY-SA 4.0** – use it, adapt it, give back under the same terms.
 
 ---
 
+## Community
+
+### OEC Roundtables
+
+A quarterly community ritual based on the Open Ecosystem Collective.
+Three voices from the cloud-native ecosystem in DACH, one circle of
+seven-minute pitches, an honest hour after. Recorded, kept, carried
+out into the world.
+
+- **When:** Four evenings a year, 17:00 to 20:00
+- **Where:** Somewhere in Zurich (the address travels with the RSVP)
+- **Format:** Three orgs on stage, lightning pitches, moderated Q&A, conversation until close
+- **Organised by:** Vonarburg-Romero Consulting
+
+→ [Read the full Roundtables page](https://open-ecosystem-collective.com/roundtables.html)
+→ [Join on Meetup](https://meetup.com/open-ecosystem-collective)
+→ [Roundtables repository](https://github.com/open-ecosystem-collective/roundtables)
+
+---
+
 ## The problem we solve
 
 Small tech firms have brilliant engineers and no partner manager.  
@@ -48,3 +68,4 @@ See [membership.md](https://github.com/open-ecosystem-collective/governance/blob
 ---
 
 *Founded by Tania Vonarburg-Romero · Kanton Aargau, Switzerland · 2026*  
+
