@@ -46,6 +46,7 @@ We bridge that gap — openly, transparently, as a community.
 |---|---|
 | [methodology](https://github.com/open-ecosystem-collective/methodology) | Partner Ecosystem Maturity Assessment, Playbooks, Templates |
 | [governance](https://github.com/open-ecosystem-collective/governance) | Values Charter, Maturity Levels, Decision Process |
+| [roundtables](https://github.com/open-ecosystem-collective/roundtables) | Open Ecosystem Roundtables |
 
 ---
 
