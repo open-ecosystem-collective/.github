@@ -1,42 +1,45 @@
 # Open Ecosystem Collective
 
-**Partner Ecosystem Management as a Non-Code Open Source Contribution.**
+**Ecosystem management as a visible, teachable, open craft in the cloud-native world.**
 
-We build open methodology, playbooks, and governance frameworks  
-for Cloud Native & Open Source companies (5–50 employees) who need  
-partner ecosystem expertise but don't have a partner manager.
+We build open methodology, playbooks and governance for cloud-native and
+open source companies, and we run community formats where the ecosystem
+gets to see itself.
 
-Licensed **CC-BY-SA 4.0** – use it, adapt it, give back under the same terms.
+Licensed **CC-BY-SA 4.0**: use it, adapt it, give back under the same terms.
 
 ---
 
 ## Community
 
-### OEC Roundtables
+### Open Ecosystem Fire Pit
 
-A quarterly community ritual based on the Open Ecosystem Collective.
-Three voices from the cloud-native ecosystem in DACH, one circle of
-seven-minute pitches, an honest hour after. Recorded, kept, carried
-out into the world.
+A quarterly community ritual. Three voices from the cloud-native ecosystem
+in DACH, one circle of seven-minute pitches, an honest hour after.
+Recorded, kept, carried out into the world.
 
-- **When:** Four evenings a year, 17:00 to 20:00
-- **Where:** Somewhere in Zurich (the address travels with the RSVP)
-- **Format:** Three orgs on stage, lightning pitches, moderated Q&A, conversation until close
-- **Organised by:** Vonarburg-Romero Consulting
-
-→ [Read the full Roundtables page](https://open-ecosystem-collective.com/roundtables.html)
+→ [Fire Pit page](https://open-ecosystem-collective.com/fire-pit.html)
 → [Join on Meetup](https://meetup.com/open-ecosystem-collective)
-→ [Roundtables repository](https://github.com/open-ecosystem-collective/roundtables)
+→ [Fire Pit repository](https://github.com/open-ecosystem-collective/fire-pit)
+
+### Open Ecosystem Success Stories
+
+One joint story about one project, written by every company that built it,
+published only if all of them say yes.
+
+→ [Stories page](https://open-ecosystem-collective.com/stories.html)
+→ [Blueprint and prompts](https://github.com/open-ecosystem-collective/stories)
 
 ---
 
-## The problem we solve
+## Do it yourself, or leave the admin to someone else
 
-Small tech firms have brilliant engineers and no partner manager.  
-MDF budgets go unclaimed. Co-sell opportunities are missed.  
-Partner ecosystems are untouched.
+Everything here is open. Take the documents and run them yourself, nobody
+needs to ask.
 
-We bridge that gap — openly, transparently, as a community.
+If you'd rather just deliver and leave contracts, invoicing and payment
+risk to someone else, [Vonarburg-Romero Consulting](https://vonarburg-romero-consulting.com)
+offers exactly that. See [pricing](https://github.com/open-ecosystem-collective/governance/blob/main/pricing.md).
 
 ---
 
@@ -44,8 +47,11 @@ We bridge that gap — openly, transparently, as a community.
 
 | Repository | What it contains |
 |---|---|
-| [methodology](https://github.com/open-ecosystem-collective/methodology) | Partner Ecosystem Maturity Assessment, Playbooks, Templates |
-| [governance](https://github.com/open-ecosystem-collective/governance) | Values Charter, Maturity Levels, Decision Process |
+| [methodology](https://github.com/open-ecosystem-collective/methodology) | Partner Ecosystem Maturity Assessment, playbooks, templates |
+| [governance](https://github.com/open-ecosystem-collective/governance) | Values charter, maturity levels, decision process, pricing |
+| [fire-pit](https://github.com/open-ecosystem-collective/fire-pit) | The Open Ecosystem Fire Pit format, editions and recordings |
+| [stories](https://github.com/open-ecosystem-collective/stories) | Open Ecosystem Success Stories: blueprint, prompts, NDA template |
+| [landscape](https://github.com/open-ecosystem-collective/landscape) | The Cloud Native Universe |
 
 ---
 
@@ -54,16 +60,17 @@ We bridge that gap — openly, transparently, as a community.
 | Resource | Link |
 |---|---|
 | 🌐 Cloud Native Landscape | [open-ecosystem-collective.github.io/landscape](https://open-ecosystem-collective.github.io/landscape/) |
-| 📋 Partner Ecosystem Assessment | [methodology/assessments](../methodology) |
-| 🏛️ Values Charter | [governance/values-charter](../governance) |
+| 📋 Partner Ecosystem Assessment | [methodology/assessments](https://github.com/open-ecosystem-collective/methodology/tree/main/assessments) |
+| 🏛️ Values Charter | [governance/values-charter.md](https://github.com/open-ecosystem-collective/governance/blob/main/values-charter.md) |
 
 ---
+
 ## Get involved
 
-We welcome contributions from anyone who shares our values.  
-See [CONTRIBUTING.md](https://github.com/open-ecosystem-collective/methodology/blob/main/CONTRIBUTING.md) to get started.  
+We welcome contributions from anyone who shares our values.
+See [CONTRIBUTING.md](https://github.com/open-ecosystem-collective/methodology/blob/main/CONTRIBUTING.md) to get started.
 See [membership.md](https://github.com/open-ecosystem-collective/governance/blob/main/membership.md) to join the collective.
 
 ---
 
-*Founded by Tania Vonarburg-Romero · Kanton Aargau, Switzerland · 2026*  
+*Founded by Tania Vonarburg-Romero · Kanton Aargau, Switzerland · 2026*
