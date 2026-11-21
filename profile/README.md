@@ -51,6 +51,7 @@ offers exactly that. See [pricing](https://github.com/open-ecosystem-collective/
 | [governance](https://github.com/open-ecosystem-collective/governance) | Values charter, maturity levels, decision process, pricing |
 | [fire-pit](https://github.com/open-ecosystem-collective/fire-pit) | The Open Ecosystem Fire Pit format, editions and recordings |
 | [stories](https://github.com/open-ecosystem-collective/stories) | Open Ecosystem Success Stories: blueprint, prompts, NDA template |
+| [collaboration-templates](https://github.com/open-ecosystem-collective/collaboration-templates) | Framework agreement, project addendum and meeting notes for companies that deliver customer projects together |
 | [landscape](https://github.com/open-ecosystem-collective/landscape) | The Cloud Native Universe |
 
 ---
