@@ -14,7 +14,7 @@ Licensed **CC-BY-SA 4.0**: use it, adapt it, give back under the same terms.
 
 ### Open Ecosystem Fire Pit
 
-A quarterly community ritual. Three voices from the cloud-native ecosystem
+A community ritual. Three voices from the cloud-native ecosystem
 in DACH, one circle of seven-minute pitches, an honest hour after.
 Recorded, kept, carried out into the world.
 
